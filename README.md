@@ -1,9 +1,8 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Phat</h1>
 <h3 align="center">I'm a student at University of Information Technology</h3>
 
-- 📫 How to reach me **qứad**
+- 📫 How to reach me ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
